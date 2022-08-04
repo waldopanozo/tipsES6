@@ -1,2 +1,2 @@
-# tipsES6
-Some tips for ES6 introduction
+# Some tips about ES6 intro
+We can start now!
