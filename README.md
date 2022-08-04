@@ -5,3 +5,7 @@ We can start now!
 * Basics 
 * Functions
 * Classes
+* Spreads
+
+# Important:
+The order of the branches presented in this README is important, because are incremental for learning purpouses
