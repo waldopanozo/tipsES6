@@ -1,3 +1,7 @@
+/**
+ * TODO: Check the final solution because is in the middle of the solution, I need to go to my house... :)
+ */
+
 function balanceBrackets(str){
     
     let array = str.split(" ");
