@@ -6,6 +6,7 @@ We can start now!
 * Functions
 * Classes
 * Spreads
+* Destructure
 
 # Important:
 The order of the branches presented in this README is important, because are incremental for learning purpouses
